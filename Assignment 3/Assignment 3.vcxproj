@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Assign03SuppliedFiles\Assign03.cpp" />
-    <ClCompile Include="..\..\Assign03SuppliedFiles\Assign03Auto.cpp" />
     <ClCompile Include="..\..\Assign03SuppliedFiles\Sequence.cpp" />
   </ItemGroup>
   <ItemGroup>
